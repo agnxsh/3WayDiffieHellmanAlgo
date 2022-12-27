@@ -37,3 +37,6 @@ Bob share "041609af48251c0eb556415c5884ef10c11ce59586767e76033e9d5192a22325902e9
 Carol share "041609af48251c0eb556415c5884ef10c11ce59586767e76033e9d5192a22325902e90747a66c2b2b5133ae390b76634348b1ef9ac66b5ce6650e93a143c8afe88"
 
 <h3>Related: An Easy To Understand 2-Way Diffie Hellman Algorithm</h3>
+
+![image](https://user-images.githubusercontent.com/80243668/209595637-740ba4d0-e4fc-4945-ba7e-d17fa0ca2b37.png)
+
